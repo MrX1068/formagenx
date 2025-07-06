@@ -1,6 +1,6 @@
 "use client";
 
-import { formagenx } from "@formagenx/react";
+import { FormagenX } from "@formagenx/react";
 
 import { z } from "zod";
 import PlaygroundPage from "./PlaygroundPage";

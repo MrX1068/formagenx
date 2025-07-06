@@ -1,0 +1,4 @@
+{
+  "buildCommand": "./build.sh",
+  "installCommand": "echo 'Skipping install (done in build.sh)'"
+}
